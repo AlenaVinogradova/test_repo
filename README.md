@@ -1,6 +1,7 @@
 # Create new repo
 
 Text plus local
+Text plus browser
 
 Another text
 
